@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzel313&label=Profile%20views&color=0e75b6&style=flat" alt="denzel313" /> </p>
 
-- 🔭 I’m currently working on **Indotoko-Laravel-10**
+- 🔭 I’m currently working on [Indotoko-Laravel-10](https://github.com/Denzel313/indotoko-laravel-10)
 
 - 🌱 I’m currently learning **Laravel**
 
